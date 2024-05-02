@@ -61,10 +61,3 @@
 </p>
 </details>
 
-
-<!-- Profile View Counter-->
-<p align="center">
-    <a href="https://github.com/lynnchia">
-        <img src="https://komarev.com/ghpvc/?username=lynnchia&color=blue&style=flat)" />
-    </a>
-</p>
