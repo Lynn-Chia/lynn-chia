@@ -21,7 +21,7 @@
 <h3 align="center">📈 Data Visualization</h3>
 <p align="center">
     <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png" alt="Tableau" width="60" height="60"/> </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="60" height="60"/> </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" width="80" height="60"/> </a>
     <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="60" height="60"/> </a>
 </p>
 
