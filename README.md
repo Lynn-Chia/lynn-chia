@@ -20,7 +20,7 @@
 <!-- Data Visualization -->
 <h3 align="center">📈 Data Visualization</h3>
 <p align="center">
-    <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
+    <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png" alt="Tableau" width="40" height="40"/> </a>
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
     <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
 </p>
@@ -28,34 +28,12 @@
 <!-- Machine Learning -->
 <h3 align="center">🤖 Machine Learning</h3>
 <p align="center">
-    <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" alt="NumPy" width="40" height="40"/> </a>
-    <a href="https://scipy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" alt="SciPy" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
-    <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" alt="Keras" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/> </a>
+    <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="NumPy" width="40" height="40"/> </a>
+    <a href="https://scipy.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" alt="SciPy" width="40" height="40"/> </a>
+    <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40" height="40"/> </a>
+    <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/x3gdrogoamvuvjemehbr" alt="Keras" width="40" height="40"/> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="TensorFlow" width="40" height="40"/> </a>
 </p>
 
-<!-- Details about me :) themes: cobalt, dracula, radical, tokyonight-->
-<details>
-<p align="center">
-    <a href="https://github.com/lynnchia">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lynnchia&theme=radical" width="800" />
-    </a>
-    <a href="https://github.com/lynnchia">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lynnchia&hide_border=true&card_width=338&theme=radical" width="400"/>
-    </a>
-    <a href="https://github.com/lynnchia">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lynnchia&theme=radical" width="400" />
-    </a>
-    <a href="https://github.com/lynnchia">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lynnchia&theme=radical&card_width=450" width="400" />
-    </a>
-    <a href="https://github.com/lynnchia">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lynnchia&theme=radical&utcOffset=8&card_width=450" width="400" />
-    </a>
-    <a href="https://github.com/lynnchia">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnchia&langs_count=10&exclude_repo=&card_width=900&hide_border=true&theme=radical" width="800" />
-    </a>
-</p>
-</details>
+
 
