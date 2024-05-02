@@ -33,8 +33,6 @@
     <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
     <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" alt="Keras" width="40" height="40"/> </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" alt="Flask" width="40" height="40"/> </a>
-    <a href="https://www.nltk.org" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/naturallanguageprocessing.svg" alt="NLTK" width="40" height="40"/> </a>
 </p>
 
 <!-- Details about me :) themes: cobalt, dracula, radical, tokyonight-->
